@@ -1,0 +1,1023 @@
+29.10.2024, 9:54:58 - INFO - Server is running on port: 3030
+29.10.2024, 9:55:48 - INFO - /api/review | GET | {} | {}
+29.10.2024, 9:56:38 - INFO - Server is running on port: 3030
+29.10.2024, 9:56:45 - INFO - /api/review | GET | {} | {}
+29.10.2024, 9:57:25 - INFO - Server is running on port: 3030
+29.10.2024, 9:57:26 - INFO - /api/review | GET | {} | {}
+29.10.2024, 9:58:01 - INFO - Server is running on port: 3030
+29.10.2024, 9:58:03 - INFO - /api/review | GET | {} | {}
+29.10.2024, 9:58:31 - INFO - Server is running on port: 3030
+29.10.2024, 9:58:32 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:02:29 - INFO - Server is running on port: 3030
+29.10.2024, 10:02:29 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:03:51 - INFO - Server is running on port: 3030
+29.10.2024, 10:03:52 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:04:37 - INFO - Server is running on port: 3030
+29.10.2024, 10:07:26 - INFO - Server is running on port: 3030
+29.10.2024, 10:07:27 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:08:05 - INFO - Server is running on port: 3030
+29.10.2024, 10:08:06 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:08:26 - INFO - Server is running on port: 3030
+29.10.2024, 10:08:27 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:22:55 - INFO - Server is running on port: 3030
+29.10.2024, 10:22:55 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:23:24 - INFO - Server is running on port: 3030
+29.10.2024, 10:23:25 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:23:42 - INFO - Server is running on port: 3030
+29.10.2024, 10:23:42 - INFO - /api/review | GET | {} | {}
+29.10.2024, 10:24:24 - INFO - /api/review | GET | {} | {} | IpE2n
+29.10.2024, 10:24:39 - INFO - Server is running on port: 3030
+29.10.2024, 10:24:40 - INFO - /api/review | GET | {} | {} | IpE2n
+29.10.2024, 10:24:40 - ERROR - cannot get reviews | ReferenceError: returncollection is not defined | IpE2n
+29.10.2024, 10:24:40 - ERROR - Cannot get reviews | ReferenceError: returncollection is not defined | IpE2n
+29.10.2024, 10:24:43 - INFO - /api/review | GET | {} | {} | IpE2n
+29.10.2024, 10:24:43 - ERROR - cannot get reviews | ReferenceError: returncollection is not defined | IpE2n
+29.10.2024, 10:24:43 - ERROR - Cannot get reviews | ReferenceError: returncollection is not defined | IpE2n
+29.10.2024, 10:24:52 - INFO - Server is running on port: 3030
+29.10.2024, 10:24:52 - INFO - /api/review | GET | {} | {} | IpE2n
+29.10.2024, 10:26:29 - INFO - Server is running on port: 3030
+29.10.2024, 10:27:14 - INFO - New connected socket [id: X3341L5UNblGm1noAAAB]
+29.10.2024, 10:27:15 - INFO - /api/review | GET | {} | {} | IpE2n
+29.10.2024, 10:34:10 - INFO - Server is running on port: 3030
+29.10.2024, 10:34:11 - INFO - New connected socket [id: mM0sX9h1FzaC44UpAAAB]
+29.10.2024, 11:10:13 - INFO - Server is running on port: 3030
+29.10.2024, 11:10:14 - INFO - New connected socket [id: _YXc8s2KX-_ZqbAjAAAB]
+29.10.2024, 11:12:44 - INFO - Server is running on port: 3030
+29.10.2024, 11:12:46 - INFO - New connected socket [id: a7AgUFsc1mhsjDmcAAAB]
+29.10.2024, 11:13:07 - ERROR - while finding user by id: 664f8261e6205c622dbc14e2 | ReferenceError: byUser is not defined | IpE2n
+29.10.2024, 11:13:07 - ERROR - Failed to get user | ReferenceError: byUser is not defined | IpE2n
+29.10.2024, 11:13:18 - INFO - Server is running on port: 3030
+29.10.2024, 11:13:20 - ERROR - while finding user by id: 664f8261e6205c622dbc14e2 | ReferenceError: user is not defined | IpE2n
+29.10.2024, 11:13:20 - ERROR - Failed to get user | ReferenceError: user is not defined | IpE2n
+29.10.2024, 11:13:20 - INFO - New connected socket [id: KYmNP9RBTtXUp-PxAAAB]
+29.10.2024, 11:13:36 - INFO - Server is running on port: 3030
+29.10.2024, 11:13:37 - INFO - New connected socket [id: QkUkeDeBH43JGa1-AAAB]
+29.10.2024, 11:15:20 - INFO - Server is running on port: 3030
+29.10.2024, 11:15:22 - INFO - New connected socket [id: 3AKntLUMtTLVKeluAAAB]
+29.10.2024, 11:15:49 - DEBUG - auth.service - login with username: bob | IpE2n
+29.10.2024, 11:15:49 - INFO - User login:  | {"_id":"664f8261e6205c622dbc14e2","username":"bob","fullname":"bob","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":480,"isAdmin":false} | IpE2n
+29.10.2024, 11:15:49 - INFO - Setting socket.userId = 664f8261e6205c622dbc14e2 for socket [id: 3AKntLUMtTLVKeluAAAB]
+29.10.2024, 11:15:51 - INFO - user-watch from socket [id: 3AKntLUMtTLVKeluAAAB], on user 664f8261e6205c622dbc14e2
+29.10.2024, 11:17:22 - INFO - Server is running on port: 3030
+29.10.2024, 11:17:23 - INFO - New connected socket [id: SRS_u4vsYFcNcyMOAAAB]
+29.10.2024, 11:17:23 - INFO - Setting socket.userId = 664f8261e6205c622dbc14e2 for socket [id: SRS_u4vsYFcNcyMOAAAB]
+29.10.2024, 11:17:23 - INFO - user-watch from socket [id: SRS_u4vsYFcNcyMOAAAB], on user 664f8261e6205c622dbc14e2
+29.10.2024, 11:17:30 - INFO - Server is running on port: 3030
+29.10.2024, 11:17:31 - INFO - New connected socket [id: w02BOHdU7zl54feTAAAB]
+29.10.2024, 11:17:31 - INFO - New connected socket [id: vpjGXsAoIr7_Uo6DAAAD]
+29.10.2024, 11:17:31 - INFO - Setting socket.userId = 664f8261e6205c622dbc14e2 for socket [id: vpjGXsAoIr7_Uo6DAAAD]
+29.10.2024, 11:17:31 - INFO - user-watch from socket [id: vpjGXsAoIr7_Uo6DAAAD], on user 664f8261e6205c622dbc14e2
+29.10.2024, 11:18:16 - INFO - Socket disconnected [id: undefined]
+29.10.2024, 11:18:24 - INFO - Server is running on port: 3030
+29.10.2024, 11:18:25 - INFO - New connected socket [id: 1r9a_RSYjnaQupX-AAAB]
+29.10.2024, 11:18:26 - INFO - Socket disconnected [id: undefined]
+29.10.2024, 11:18:26 - INFO - New connected socket [id: e6qOAglW1nvxceIzAAAD]
+29.10.2024, 11:18:26 - INFO - Setting socket.userId = 664f8261e6205c622dbc14e2 for socket [id: e6qOAglW1nvxceIzAAAD]
+29.10.2024, 11:18:26 - INFO - user-watch from socket [id: e6qOAglW1nvxceIzAAAD], on user 664f8261e6205c622dbc14e2
+29.10.2024, 11:20:20 - INFO - Server is running on port: 3030
+29.10.2024, 11:20:21 - INFO - New connected socket [id: MyOsibDIgpnrH5oOAAAB]
+29.10.2024, 11:20:21 - INFO - Socket disconnected [id: undefined]
+29.10.2024, 11:20:21 - INFO - New connected socket [id: tl13qPsyReQaYugKAAAD]
+29.10.2024, 11:20:21 - INFO - Setting socket.userId = 664f8261e6205c622dbc14e2 for socket [id: tl13qPsyReQaYugKAAAD]
+29.10.2024, 11:20:21 - INFO - user-watch from socket [id: tl13qPsyReQaYugKAAAD], on user 664f8261e6205c622dbc14e2
+29.10.2024, 12:38:00 - INFO - Server is running on port: 3030
+29.10.2024, 12:38:00 - INFO - New connected socket [id: epZvPmAyRx4b1tJoAAAB]
+29.10.2024, 12:38:14 - INFO - /api/review | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 12:38:36 - INFO - Server is running on port: 3030
+29.10.2024, 12:38:36 - INFO - New connected socket [id: m1sUs_jsXCrKZ1ogAAAB]
+29.10.2024, 12:38:37 - INFO - /api/review | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 12:39:03 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 12:39:03 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:03:41 - INFO - Socket disconnected [id: undefined]
+29.10.2024, 20:03:42 - INFO - New connected socket [id: oXnmx94-rsu9hMVFAAAD]
+29.10.2024, 20:03:42 - INFO - Setting socket.userId = 664f8261e6205c622dbc14e2 for socket [id: oXnmx94-rsu9hMVFAAAD]
+29.10.2024, 20:03:42 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:03:42 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:03:48 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:03:48 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:04:00 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:04:00 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:04:04 - INFO - /api/review | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:04:07 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:04:07 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:04:52 - INFO - /api/car | GET | {} | {"id":"6655e6883660ea02bdfbb955"} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:06:32 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:06:32 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:22 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:22 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:29 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:29 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:29 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:31 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:31 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:31 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:31 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:35 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:35 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:38 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:39 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:40 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:41 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:42 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:43 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:44 - INFO - /api/car | GET | {} | {} | 664f8261e6205c622dbc14e2
+29.10.2024, 20:07:48 - INFO - Removing socket.userId for socket [id: oXnmx94-rsu9hMVFAAAD]
+29.10.2024, 20:07:57 - DEBUG - auth.service - login with username: toto
+29.10.2024, 20:07:57 - INFO - User login:  | {"_id":"6673ed567b3a8ae2e598215a","username":"toto","fullname":"toto","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":true,"score":300}
+29.10.2024, 20:07:57 - INFO - Setting socket.userId = 6673ed567b3a8ae2e598215a for socket [id: oXnmx94-rsu9hMVFAAAD]
+29.10.2024, 20:08:01 - INFO - /api/car | GET | {} | {} | 6673ed567b3a8ae2e598215a
+29.10.2024, 20:08:01 - INFO - /api/car | GET | {} | {} | 6673ed567b3a8ae2e598215a
+29.10.2024, 20:08:12 - INFO - Removing socket.userId for socket [id: oXnmx94-rsu9hMVFAAAD]
+29.10.2024, 20:08:14 - INFO - /api/car | GET | {} | {}
+29.10.2024, 20:08:14 - INFO - /api/car | GET | {} | {}
+29.10.2024, 20:10:37 - INFO - Server is running on port: 3030
+29.10.2024, 20:10:38 - INFO - New connected socket [id: I2D-V-6M8fmO77epAAAB]
+29.10.2024, 20:38:44 - INFO - Server is running on port: 3030
+29.10.2024, 20:38:45 - INFO - New connected socket [id: aSAQ1Lm47LKB6iBjAAAB]
+29.10.2024, 20:41:39 - INFO - Server is running on port: 3030
+29.10.2024, 20:41:40 - INFO - New connected socket [id: VVty1eN45KhTIwPpAAAB]
+29.10.2024, 20:41:40 - INFO - /api/car | GET | {} | {}
+29.10.2024, 20:41:40 - INFO - /api/car | GET | {} | {}
+29.10.2024, 20:53:05 - INFO - /api/car | GET | {} | {"id":"6668c400093d89b25d071959"}
+29.10.2024, 20:53:12 - INFO - /api/car | GET | {} | {}
+29.10.2024, 20:53:12 - INFO - /api/car | GET | {} | {}
+29.10.2024, 21:01:47 - INFO - /api/car | GET | {} | {"id":"6668c400093d89b25d071959"}
+29.10.2024, 21:01:53 - INFO - /api/car | GET | {} | {}
+29.10.2024, 21:01:53 - INFO - /api/car | GET | {} | {}
+29.10.2024, 21:02:53 - INFO - Server is running on port: 3030
+29.10.2024, 21:02:54 - INFO - New connected socket [id: yvM4V0FzsN0lQrYqAAAB]
+29.10.2024, 21:04:16 - INFO - Server is running on port: 3030
+29.10.2024, 21:04:17 - INFO - New connected socket [id: oEM7TDA_YNa8sFvpAAAB]
+29.10.2024, 21:04:47 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:10:12 - INFO - Server is running on port: 3030
+29.10.2024, 21:10:13 - INFO - New connected socket [id: hszdR3dmmLGFu_DTAAAB]
+29.10.2024, 21:10:23 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:11:15 - INFO - Server is running on port: 3030
+29.10.2024, 21:11:16 - INFO - New connected socket [id: 1VB0ss2YLLcei-NxAAAB]
+29.10.2024, 21:11:18 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:12:44 - INFO - Server is running on port: 3030
+29.10.2024, 21:12:46 - INFO - New connected socket [id: PQHxM9Ww0PB3-WBmAAAB]
+29.10.2024, 21:12:53 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:14:54 - INFO - Server is running on port: 3030
+29.10.2024, 21:14:55 - INFO - New connected socket [id: c3wWgZ8KbN0SzIbPAAAB]
+29.10.2024, 21:16:53 - INFO - Server is running on port: 3030
+29.10.2024, 21:16:54 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:16:54 - INFO - New connected socket [id: e5xhjJKXclhz8EOlAAAB]
+29.10.2024, 21:18:01 - INFO - Server is running on port: 3030
+29.10.2024, 21:18:02 - INFO - New connected socket [id: bNjhHCMBvz5hBW5MAAAB]
+29.10.2024, 21:18:08 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:18:40 - INFO - Server is running on port: 3030
+29.10.2024, 21:18:41 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:18:42 - INFO - New connected socket [id: QZiz4dDfxUPh-09XAAAB]
+29.10.2024, 21:20:12 - INFO - Server is running on port: 3030
+29.10.2024, 21:20:12 - INFO - New connected socket [id: _XG2I9Hu5T1eSbfeAAAB]
+29.10.2024, 21:20:44 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:24:53 - INFO - Server is running on port: 3030
+29.10.2024, 21:24:54 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:24:54 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:24:55 - INFO - New connected socket [id: Y5SHtj7vtZRe3IOXAAAB]
+29.10.2024, 21:25:35 - INFO - Server is running on port: 3030
+29.10.2024, 21:25:36 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:25:37 - INFO - New connected socket [id: Kcv3iTHhV4FNtuIBAAAB]
+29.10.2024, 21:25:58 - INFO - Server is running on port: 3030
+29.10.2024, 21:25:58 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:25:59 - INFO - New connected socket [id: 9p7ZrHVWGax-ATqLAAAB]
+29.10.2024, 21:28:17 - INFO - user-watch from socket [id: 9p7ZrHVWGax-ATqLAAAB], on user 664f8261e6205c622dbc14e2
+29.10.2024, 21:32:17 - INFO - /api/review | GET | {} | {}
+29.10.2024, 21:32:23 - INFO - user-watch from socket [id: 9p7ZrHVWGax-ATqLAAAB], on user 664f8261e6205c622dbc14e2
+29.10.2024, 21:40:44 - INFO - Server is running on port: 3030
+29.10.2024, 21:40:45 - INFO - New connected socket [id: VorIGCej0LPt7aQbAAAB]
+29.10.2024, 21:53:14 - INFO - /api/car | GET | {} | {}
+29.10.2024, 21:53:14 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:32:49 - INFO - Server is running on port: 3030
+20.2.2025, 14:32:56 - INFO - New connected socket [id: a7Nl-k3dN5oG13LZAAAB]
+20.2.2025, 14:32:57 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:32:57 - INFO - New connected socket [id: D3D5gmMQJ5M-p2YqAAAD]
+20.2.2025, 14:33:06 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:33:06 - INFO - New connected socket [id: rKQ4Jjc83BHWQE9zAAAF]
+20.2.2025, 14:33:07 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:33:08 - INFO - New connected socket [id: Dk2Jpz5JDublfdEeAAAH]
+20.2.2025, 14:33:10 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:33:11 - INFO - New connected socket [id: 7FH3dRiUtkTkrWmMAAAJ]
+20.2.2025, 14:34:26 - INFO - Server is running on port: 3030
+20.2.2025, 14:34:27 - INFO - New connected socket [id: VwCkAjVjt4AevqkKAAAB]
+20.2.2025, 14:34:48 - INFO - Server is running on port: 3030
+20.2.2025, 14:34:48 - INFO - New connected socket [id: SWrOY_OSiVll1icBAAAB]
+20.2.2025, 14:35:05 - INFO - Server is running on port: 3030
+20.2.2025, 14:35:06 - INFO - New connected socket [id: FIFh-BmetJ-0KP6BAAAB]
+20.2.2025, 14:35:11 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:35:11 - INFO - New connected socket [id: 2B3D30tqCYFgU137AAAD]
+20.2.2025, 14:35:13 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:35:13 - INFO - New connected socket [id: i6ynmwsu5D3A6eEVAAAF]
+20.2.2025, 14:35:21 - INFO - Server is running on port: 3030
+20.2.2025, 14:35:23 - INFO - New connected socket [id: Gpvl8sE68DH9GwutAAAB]
+20.2.2025, 14:35:47 - INFO - Server is running on port: 3030
+20.2.2025, 14:35:48 - INFO - New connected socket [id: AF7GT3UdpKuhEHwoAAAB]
+20.2.2025, 14:35:52 - INFO - Server is running on port: 3030
+20.2.2025, 14:35:54 - INFO - New connected socket [id: OXlQz-3k75GieKN9AAAB]
+20.2.2025, 14:35:55 - INFO - Server is running on port: 3030
+20.2.2025, 14:35:56 - INFO - New connected socket [id: 1OI-OmW42EansFWdAAAB]
+20.2.2025, 14:36:03 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:36:03 - INFO - New connected socket [id: _fHNIyABRQZ3cxzoAAAD]
+20.2.2025, 14:36:40 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:36:40 - INFO - New connected socket [id: j5zrgOTyAVyyktZFAAAF]
+20.2.2025, 14:37:05 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:37:05 - INFO - New connected socket [id: XruxbD37gwMrdAuAAAAH]
+20.2.2025, 14:37:19 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:37:20 - INFO - New connected socket [id: JG8KmdCk52PbMlQpAAAJ]
+20.2.2025, 14:37:46 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:37:46 - INFO - New connected socket [id: R0bT9AZJymOKe3jSAAAL]
+20.2.2025, 14:37:50 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:37:50 - INFO - New connected socket [id: eNZtDsYsyy_JJIROAAAN]
+20.2.2025, 14:37:56 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:37:56 - INFO - New connected socket [id: lrIH5VWxbU0xmWtWAAAP]
+20.2.2025, 14:38:05 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:38:05 - INFO - New connected socket [id: uTZ4JSGJ1xdCH_chAAAR]
+20.2.2025, 14:38:37 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:38:38 - INFO - New connected socket [id: omKr6ZK_AixBaAPiAAAT]
+20.2.2025, 14:38:52 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:38:52 - INFO - New connected socket [id: VBjp2BqI_ic8-we8AAAV]
+20.2.2025, 14:39:13 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:39:13 - INFO - New connected socket [id: mnAMjttM1hSJX3pkAAAX]
+20.2.2025, 14:39:13 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:39:13 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:39:14 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:39:15 - INFO - New connected socket [id: tSmUACFH8grhN881AAAZ]
+20.2.2025, 14:39:15 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:39:15 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:39:19 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:39:19 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:39:19 - INFO - New connected socket [id: nYVOZRy7o424ipLAAAAb]
+20.2.2025, 14:39:19 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:41:47 - INFO - Server is running on port: 3030
+20.2.2025, 14:41:48 - INFO - New connected socket [id: SZK1DfFg4BcVqSqsAAAC]
+20.2.2025, 14:41:48 - INFO - New connected socket [id: keGQMSLwIa4bFQMHAAAD]
+20.2.2025, 14:41:49 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:41:49 - INFO - New connected socket [id: mrlu4vosm05UM-cpAAAF]
+20.2.2025, 14:41:49 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:41:49 - INFO - /api/car | GET | {} | {}
+20.2.2025, 14:42:05 - DEBUG - auth.service - login with username: nina
+20.2.2025, 14:42:05 - INFO - User login:  | {"_id":"65199f6b72b0cbdda7d78774","username":"nina","fullname":"Nina Simantov","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1730721847/lfoue5mbwl8tzvukaolf.webp","score":120}
+20.2.2025, 14:42:05 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: mrlu4vosm05UM-cpAAAF]
+20.2.2025, 14:42:07 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:42:07 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:46:00 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:50:51 - INFO - Server is running on port: 3030
+20.2.2025, 14:50:52 - INFO - Server is running on port: 3030
+20.2.2025, 14:50:53 - INFO - New connected socket [id: C4kynID29vpTd8G6AAAB]
+20.2.2025, 14:51:41 - INFO - Server is running on port: 3030
+20.2.2025, 14:51:43 - INFO - New connected socket [id: OpS984AkWA7dY3-OAAAB]
+20.2.2025, 14:52:01 - INFO - Server is running on port: 3030
+20.2.2025, 14:52:03 - INFO - New connected socket [id: HE7fQI7jJ61-UGFiAAAB]
+20.2.2025, 14:52:12 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:52:12 - INFO - New connected socket [id: SpZ9DARzwybt4ky7AAAD]
+20.2.2025, 14:52:12 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:52:12 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: SpZ9DARzwybt4ky7AAAD]
+20.2.2025, 14:52:14 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:55:31 - INFO - Server is running on port: 3030
+20.2.2025, 14:55:33 - INFO - New connected socket [id: CJ8lwlo6x66lsfP-AAAB]
+20.2.2025, 14:55:39 - INFO - Server is running on port: 3030
+20.2.2025, 14:55:40 - INFO - New connected socket [id: tbWl1UHb3WGJDlpzAAAB]
+20.2.2025, 14:55:43 - INFO - Server is running on port: 3030
+20.2.2025, 14:55:44 - INFO - New connected socket [id: Cne_pLOvubEsMPkxAAAB]
+20.2.2025, 14:56:25 - INFO - Server is running on port: 3030
+20.2.2025, 14:56:26 - INFO - New connected socket [id: NgSSfvOh8oxPoQuUAAAB]
+20.2.2025, 14:57:31 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:57:31 - INFO - New connected socket [id: giAFb7bbznG2oH5LAAAD]
+20.2.2025, 14:57:31 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: giAFb7bbznG2oH5LAAAD]
+20.2.2025, 14:57:31 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:32 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:32 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:32 - ERROR - cannot find cars | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:32 - ERROR - Failed to get cars | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:32 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:33 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:33 - ERROR - cannot find cars | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:33 - ERROR - Failed to get cars | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:33 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:37 - INFO - Server is running on port: 3030
+20.2.2025, 14:57:39 - INFO - New connected socket [id: eZ3AaAQ2H_NaIl6HAAAB]
+20.2.2025, 14:57:39 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:57:39 - INFO - New connected socket [id: veFQnTgGBC3dozPdAAAD]
+20.2.2025, 14:57:39 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:39 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: veFQnTgGBC3dozPdAAAD]
+20.2.2025, 14:57:40 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:48 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:57:48 - INFO - New connected socket [id: nYAuAb8PsWxaEZe8AAAF]
+20.2.2025, 14:57:48 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:48 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: nYAuAb8PsWxaEZe8AAAF]
+20.2.2025, 14:57:48 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:53 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 14:57:53 - INFO - New connected socket [id: HW1acY-kk6d1ksWXAAAH]
+20.2.2025, 14:57:54 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 14:57:54 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: HW1acY-kk6d1ksWXAAAH]
+20.2.2025, 14:57:54 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 15:01:26 - INFO - Server is running on port: 3030
+20.2.2025, 15:01:27 - INFO - New connected socket [id: LBrvXeKHnslGEsyZAAAB]
+20.2.2025, 15:11:20 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:11:20 - INFO - New connected socket [id: zhV1nNgA2jVbfE1rAAAD]
+20.2.2025, 15:11:20 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 15:11:20 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: zhV1nNgA2jVbfE1rAAAD]
+20.2.2025, 15:12:06 - INFO - Server is running on port: 3030
+20.2.2025, 15:12:07 - INFO - New connected socket [id: sLoP0I3Jv71C5304AAAB]
+20.2.2025, 15:12:10 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:12:10 - INFO - New connected socket [id: ShaqD7f75A5-_XDPAAAD]
+20.2.2025, 15:12:10 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:12:10 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:12:21 - INFO - Server is running on port: 3030
+20.2.2025, 15:12:23 - INFO - New connected socket [id: 1LQOo0C1ZGxrxltmAAAB]
+20.2.2025, 15:14:02 - INFO - Server is running on port: 3030
+20.2.2025, 15:14:04 - INFO - New connected socket [id: EZhXvUvrlgevun0wAAAB]
+20.2.2025, 15:15:41 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:15:41 - INFO - New connected socket [id: 4ysgY_kjK9qQevJJAAAD]
+20.2.2025, 15:15:41 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:16:01 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:16:11 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:11 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:11 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:11 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:31 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:31 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:31 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:31 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:16:46 - INFO - Server is running on port: 3030
+20.2.2025, 15:16:47 - INFO - New connected socket [id: AXGw58bnTAdZkpYuAAAB]
+20.2.2025, 15:16:49 - INFO - Server is running on port: 3030
+20.2.2025, 15:16:50 - INFO - New connected socket [id: KcFfROQD3oKwj0FtAAAB]
+20.2.2025, 15:16:52 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:16:53 - INFO - New connected socket [id: z8zfOhUpeEvSYA3JAAAD]
+20.2.2025, 15:16:53 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:16:53 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:17:13 - INFO - Server is running on port: 3030
+20.2.2025, 15:17:15 - INFO - New connected socket [id: 52FNUwKZQLlMjJwOAAAB]
+20.2.2025, 15:17:16 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:17:16 - INFO - New connected socket [id: _5fuprm0RZbFdRNaAAAD]
+20.2.2025, 15:17:16 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:17:36 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:17:46 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:17:46 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:17:46 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:17:46 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:17:48 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:17:53 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:17:53 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:17:53 - INFO - New connected socket [id: apM1JEU7FA7VKl9jAAAF]
+20.2.2025, 15:18:06 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:18:06 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:18:06 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:18:06 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:18:12 - INFO - Server is running on port: 3030
+20.2.2025, 15:18:14 - INFO - New connected socket [id: G7L1FxSFO3sT5XQkAAAB]
+20.2.2025, 15:18:21 - INFO - Server is running on port: 3030
+20.2.2025, 15:18:22 - INFO - New connected socket [id: LVSSpRo61S4EjQfxAAAB]
+20.2.2025, 15:18:23 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:18:23 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:18:23 - INFO - New connected socket [id: 8xkydnKNDUMn1X5vAAAD]
+20.2.2025, 15:18:27 - INFO - Server is running on port: 3030
+20.2.2025, 15:18:28 - INFO - New connected socket [id: onvHz1Kr319P5PbMAAAB]
+20.2.2025, 15:19:43 - INFO - Server is running on port: 3030
+20.2.2025, 15:19:45 - INFO - New connected socket [id: AUdJkaGLg4IHJ4iKAAAB]
+20.2.2025, 15:19:46 - INFO - Server is running on port: 3030
+20.2.2025, 15:19:47 - INFO - New connected socket [id: TWTOCRbYI5QUBiG9AAAB]
+20.2.2025, 15:19:50 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:19:50 - INFO - New connected socket [id: iZ7pc-lC2VNv79FqAAAD]
+20.2.2025, 15:19:50 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:20:10 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:20:20 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:20:20 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:20:20 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:20:20 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:20:40 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:20:40 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:20:40 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:20:40 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:23:17 - INFO - Server is running on port: 3030
+20.2.2025, 15:23:18 - INFO - New connected socket [id: SBtU-P9V_FDRqSB_AAAB]
+20.2.2025, 15:23:29 - INFO - Server is running on port: 3030
+20.2.2025, 15:23:30 - INFO - New connected socket [id: EmhN2PuNbdpYPmlbAAAB]
+20.2.2025, 15:24:54 - INFO - Server is running on port: 3030
+20.2.2025, 15:24:56 - INFO - New connected socket [id: ElGbD6hTHgJcrYz1AAAB]
+20.2.2025, 15:25:02 - INFO - Server is running on port: 3030
+20.2.2025, 15:25:04 - INFO - New connected socket [id: je8z3Z-rRa38MtjZAAAB]
+20.2.2025, 15:25:10 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:25:11 - INFO - New connected socket [id: akCSByQXhjUw7WA3AAAD]
+20.2.2025, 15:25:11 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:25:31 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:25:41 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:25:41 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:25:41 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:25:41 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:26:01 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:26:01 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:26:01 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:26:01 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:27:04 - INFO - Server is running on port: 3030
+20.2.2025, 15:27:06 - INFO - New connected socket [id: Gy7bIvySeBqnlZQwAAAB]
+20.2.2025, 15:27:10 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:27:10 - INFO - New connected socket [id: tqDGN4hbzFwulkucAAAD]
+20.2.2025, 15:27:10 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:27:16 - INFO - Server is running on port: 3030
+20.2.2025, 15:27:17 - INFO - New connected socket [id: _pKtnfSRr1uOdRhVAAAB]
+20.2.2025, 15:27:18 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:27:18 - INFO - New connected socket [id: TtPetRJKbISNQrEkAAAD]
+20.2.2025, 15:27:18 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:27:31 - INFO - Server is running on port: 3030
+20.2.2025, 15:27:33 - INFO - New connected socket [id: -2pZt5PXyBlHo1I_AAAB]
+20.2.2025, 15:27:57 - INFO - Server is running on port: 3030
+20.2.2025, 15:27:59 - INFO - New connected socket [id: -2x9mfr5fkhrbgOPAAAB]
+20.2.2025, 15:28:02 - INFO - Server is running on port: 3030
+20.2.2025, 15:28:04 - INFO - New connected socket [id: D9A7Sed5dTxVzGo-AAAB]
+20.2.2025, 15:28:17 - INFO - Server is running on port: 3030
+20.2.2025, 15:28:18 - INFO - New connected socket [id: IuWjVXnKH8lbE1lRAAAB]
+20.2.2025, 15:28:33 - INFO - Server is running on port: 3030
+20.2.2025, 15:28:35 - INFO - New connected socket [id: j0GdTGsA7ZlGP20JAAAB]
+20.2.2025, 15:28:36 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:28:36 - INFO - New connected socket [id: zLodL14FvVUhh3Y-AAAD]
+20.2.2025, 15:28:36 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:28:36 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:30:38 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:30:38 - INFO - New connected socket [id: KvNjcv-gm5wqtzqLAAAF]
+20.2.2025, 15:30:38 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:30:38 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:31:43 - INFO - Server is running on port: 3030
+20.2.2025, 15:31:44 - INFO - New connected socket [id: Z5BW5eqO97EHnnY-AAAB]
+20.2.2025, 15:31:57 - INFO - Server is running on port: 3030
+20.2.2025, 15:31:59 - INFO - Server is running on port: 3030
+20.2.2025, 15:32:18 - INFO - Server is running on port: 3030
+20.2.2025, 15:32:19 - INFO - New connected socket [id: yFzKYeJ0-bSOmxe7AAAB]
+20.2.2025, 15:32:24 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:32:25 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:32:25 - INFO - New connected socket [id: ch20OM2yOJiYRoRsAAAD]
+20.2.2025, 15:32:45 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:32:55 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:32:55 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:32:55 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:32:55 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:33:15 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:33:15 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:33:15 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:33:15 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:33:28 - INFO - Server is running on port: 3030
+20.2.2025, 15:33:29 - INFO - New connected socket [id: auBz0va6uMJO_vr9AAAB]
+20.2.2025, 15:33:31 - INFO - Server is running on port: 3030
+20.2.2025, 15:33:33 - INFO - New connected socket [id: Oso38ykPc8a7h2FuAAAB]
+20.2.2025, 15:38:37 - INFO - Server is running on port: 3030
+20.2.2025, 15:38:39 - INFO - New connected socket [id: Ba7kU1_3xYDuRW31AAAB]
+20.2.2025, 15:38:41 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:38:41 - INFO - New connected socket [id: kaPrPSlh25XpZ3dcAAAD]
+20.2.2025, 15:38:41 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:39:01 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:39:12 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:39:12 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:39:12 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:39:12 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:39:31 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:39:31 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:39:31 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:39:31 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:48:21 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:48:21 - INFO - New connected socket [id: Sbs3SptJ4Jj2fK8HAAAF]
+20.2.2025, 15:48:21 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:48:41 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:48:51 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:48:51 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:48:51 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:48:51 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:49:11 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:49:11 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:49:11 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:49:11 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+
+20.2.2025, 15:55:12 - INFO - Server is running on port: 3030
+20.2.2025, 15:55:14 - INFO - New connected socket [id: WH1GSNZgn4Tyr-27AAAB]
+20.2.2025, 15:55:21 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 15:55:21 - INFO - New connected socket [id: zYyKxrFW02e65CroAAAD]
+20.2.2025, 15:55:21 - INFO - /api/car | GET | {} | {}
+20.2.2025, 15:55:22 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:02:08 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:02:08 - INFO - New connected socket [id: ZLCC00crLBIDh2oKAAAF]
+20.2.2025, 16:02:08 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:02:09 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:06:56 - INFO - Server is running on port: 3030
+20.2.2025, 16:06:57 - INFO - New connected socket [id: okRebeYojm-kdGwiAAAB]
+20.2.2025, 16:06:58 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:06:58 - INFO - New connected socket [id: h-J9RiwHj3XUz6HPAAAD]
+20.2.2025, 16:06:58 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:06:59 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:07:50 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:07:50 - INFO - New connected socket [id: drf0tGSvOAuGcBtxAAAF]
+20.2.2025, 16:07:50 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:07:50 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:07:51 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:07:52 - INFO - New connected socket [id: c7f_zGMwC9TWnVcqAAAH]
+20.2.2025, 16:07:52 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:07:52 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:15:32 - INFO - Server is running on port: 3030
+20.2.2025, 16:15:33 - INFO - New connected socket [id: BfqriTzZQA13OfNiAAAB]
+20.2.2025, 16:15:35 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:15:35 - INFO - New connected socket [id: 50dkeXb2NqTL5vaOAAAD]
+20.2.2025, 16:15:35 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:15:36 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:24:21 - INFO - Server is running on port: 3030
+20.2.2025, 16:24:23 - INFO - New connected socket [id: qLUz2dy125IfbEpUAAAB]
+20.2.2025, 16:24:24 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:24:24 - INFO - New connected socket [id: jScPCTP5ZGjATiIxAAAD]
+20.2.2025, 16:24:24 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:24:25 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:24:35 - INFO - Server is running on port: 3030
+20.2.2025, 16:24:36 - INFO - New connected socket [id: Uxwvxt_QIJV-HPyyAAAB]
+20.2.2025, 16:30:35 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:30:35 - INFO - New connected socket [id: 5fS2-Eu7djGNeu32AAAD]
+20.2.2025, 16:30:35 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:30:36 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:33:27 - INFO - Server is running on port: 3030
+20.2.2025, 16:33:28 - INFO - New connected socket [id: YRxBdB2aHyz9xcKwAAAB]
+20.2.2025, 16:33:29 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:33:29 - INFO - New connected socket [id: _p9zRsD0zvzJ-MYwAAAD]
+20.2.2025, 16:33:29 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:33:30 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:33:37 - DEBUG - auth.service - login with username: nina
+20.2.2025, 16:33:37 - INFO - User login:  | {"_id":"65199f6b72b0cbdda7d78774","username":"nina","fullname":"Nina Simantov","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1730721847/lfoue5mbwl8tzvukaolf.webp","score":110}
+20.2.2025, 16:33:37 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: _p9zRsD0zvzJ-MYwAAAD]
+20.2.2025, 16:33:39 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:33:39 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:03 - INFO - Server is running on port: 3030
+20.2.2025, 16:49:05 - INFO - New connected socket [id: VvFzXjaVylNftvEaAAAB]
+20.2.2025, 16:49:05 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:49:05 - INFO - New connected socket [id: aRfb4eSLFvJpoai-AAAD]
+20.2.2025, 16:49:05 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: aRfb4eSLFvJpoai-AAAD]
+20.2.2025, 16:49:05 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - Cannot Connect to DB | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - Failed to get Mongo collection | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - cannot find cars | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - Failed to get cars | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - Cannot Connect to DB | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - Failed to get cars | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - Failed to get Mongo collection | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:05 - ERROR - cannot find cars | Error: querySrv ENOTFOUND _mongodb._tcp.cluster2.ci39r.mongodb.net | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:17 - INFO - Server is running on port: 3030
+20.2.2025, 16:49:18 - INFO - New connected socket [id: vysXQJUXXGAVFMbpAAAB]
+20.2.2025, 16:49:19 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:49:19 - INFO - New connected socket [id: CoXkEiqy7otGb5qtAAAD]
+20.2.2025, 16:49:19 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:19 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: CoXkEiqy7otGb5qtAAAD]
+20.2.2025, 16:49:39 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:49 - ERROR - Cannot Connect to DB | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+ | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:49 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+ | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:49 - ERROR - cannot find cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+ | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:49:49 - ERROR - Failed to get cars | MongoServerSelectionError: 4032AAFC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:907:SSL alert number 80
+ | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:50:03 - INFO - Server is running on port: 3030
+20.2.2025, 16:50:04 - INFO - New connected socket [id: KCTVqkCd1aqpq_GAAAAB]
+20.2.2025, 16:50:06 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:50:06 - INFO - New connected socket [id: XlrSRhEd-q0X2l_xAAAD]
+20.2.2025, 16:50:06 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:50:06 - INFO - Setting socket.userId = 65199f6b72b0cbdda7d78774 for socket [id: XlrSRhEd-q0X2l_xAAAD]
+20.2.2025, 16:50:06 - INFO - /api/car | GET | {} | {} | 65199f6b72b0cbdda7d78774
+20.2.2025, 16:50:08 - INFO - Removing socket.userId for socket [id: XlrSRhEd-q0X2l_xAAAD]
+20.2.2025, 16:50:08 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:50:08 - INFO - New connected socket [id: Q-Lkbm6hQCm9jOoFAAAF]
+20.2.2025, 16:57:38 - INFO - Server is running on port: 3030
+20.2.2025, 16:57:40 - INFO - New connected socket [id: Mox7nSPwF2Yu1T7WAAAB]
+20.2.2025, 16:57:42 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:42 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:43 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:57:43 - INFO - New connected socket [id: JFugzKnakGABZ8XlAAAD]
+20.2.2025, 16:57:43 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:43 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:44 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:57:44 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:44 - INFO - New connected socket [id: B73aWf5a9xeJBmqmAAAF]
+20.2.2025, 16:57:44 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:53 - INFO - Server is running on port: 3030
+20.2.2025, 16:57:54 - INFO - New connected socket [id: BMCdDtXGVHboRAWaAAAB]
+20.2.2025, 16:57:55 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:57:55 - INFO - New connected socket [id: cOi-Eg_VeFyDQGR2AAAD]
+20.2.2025, 16:57:55 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:56 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:58 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 16:57:58 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:57:58 - INFO - New connected socket [id: H9aR-iJt9tb15URGAAAF]
+20.2.2025, 16:57:58 - INFO - /api/car | GET | {} | {}
+20.2.2025, 16:58:30 - INFO - Server is running on port: 3030
+20.2.2025, 16:58:31 - INFO - New connected socket [id: 92JtFNXeV-AnBqVxAAAB]
+20.2.2025, 17:02:25 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 17:02:25 - INFO - New connected socket [id: PYdsVh2rz0WOn0nMAAAD]
+20.2.2025, 17:02:25 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:02:25 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:02:26 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 17:02:27 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:02:27 - INFO - New connected socket [id: OAIUn9QSkUIZNA9NAAAF]
+20.2.2025, 17:02:27 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:02:33 - DEBUG - auth.service - login with username: stu
+20.2.2025, 17:02:33 - INFO - User login:  | {"_id":"6693ed0cc0ce129e1ce34766","username":"stu","fullname":"Stav Yaar Bar","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1720970505/myvjigxs2bxhsktyfquk.jpg","isAdmin":true,"score":150}
+20.2.2025, 17:02:33 - INFO - Setting socket.userId = 6693ed0cc0ce129e1ce34766 for socket [id: OAIUn9QSkUIZNA9NAAAF]
+20.2.2025, 17:02:34 - INFO - /api/car | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 17:02:34 - INFO - /api/car | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 17:02:37 - INFO - user-watch from socket [id: OAIUn9QSkUIZNA9NAAAF], on user 6693ed0cc0ce129e1ce34766
+20.2.2025, 17:02:39 - INFO - Removing socket.userId for socket [id: OAIUn9QSkUIZNA9NAAAF]
+20.2.2025, 17:05:57 - INFO - Server is running on port: 3030
+20.2.2025, 17:05:59 - INFO - New connected socket [id: 8JWH0bAyoHEvzCUNAAAB]
+20.2.2025, 17:06:03 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:03 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:04 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 17:06:04 - INFO - New connected socket [id: -jNsPm_4IDi1MbsjAAAD]
+20.2.2025, 17:06:04 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:04 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:05 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 17:06:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:05 - INFO - New connected socket [id: iWZm4hvaQhIOvqvhAAAF]
+20.2.2025, 17:06:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:05 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 17:06:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:05 - INFO - New connected socket [id: kNBxUUJkJrDouqOxAAAH]
+20.2.2025, 17:06:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:09 - INFO - Server is running on port: 3030
+20.2.2025, 17:06:11 - INFO - New connected socket [id: MuAR_XwwCC1DaVKdAAAB]
+20.2.2025, 17:06:11 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 17:06:11 - INFO - New connected socket [id: A2DMstfpghGtSycwAAAD]
+20.2.2025, 17:06:11 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:12 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:18 - INFO - Server is running on port: 3030
+20.2.2025, 17:06:19 - INFO - New connected socket [id: zH89hl1575f9rbNQAAAB]
+20.2.2025, 17:06:35 - INFO - Server is running on port: 3030
+20.2.2025, 17:06:35 - INFO - Server is running on port: 3030
+20.2.2025, 17:06:36 - INFO - New connected socket [id: uIa-YzUrLqef7k3IAAAB]
+20.2.2025, 17:06:39 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 17:06:39 - INFO - New connected socket [id: rsKX6LE7YuzV-M4iAAAD]
+20.2.2025, 17:06:39 - INFO - /api/car | GET | {} | {}
+20.2.2025, 17:06:39 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:54:36 - INFO - Server is running on port: 3030
+20.2.2025, 18:55:06 - INFO - New connected socket [id: 9gEi33Z3sI96FDmSAAAB]
+20.2.2025, 18:55:09 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 18:55:09 - INFO - New connected socket [id: lnbnlrYgOYXa-bfLAAAD]
+20.2.2025, 18:55:10 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:55:10 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:55:11 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 18:55:11 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:55:11 - INFO - New connected socket [id: w9Ik8dub_eaGQj8fAAAF]
+20.2.2025, 18:55:11 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:56:27 - INFO - Server is running on port: 3030
+20.2.2025, 18:56:29 - INFO - New connected socket [id: OhX3ViyfEf6JwBIxAAAB]
+20.2.2025, 18:56:30 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 18:56:30 - INFO - New connected socket [id: eivHZUOn_GEmy6_3AAAD]
+20.2.2025, 18:56:30 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:56:30 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:56:40 - INFO - Server is running on port: 3030
+20.2.2025, 18:56:41 - INFO - New connected socket [id: 1IXqexJT6XD1vH7wAAAB]
+20.2.2025, 18:56:42 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 18:56:42 - INFO - New connected socket [id: UesqrCrv3X-TWK8TAAAD]
+20.2.2025, 18:56:42 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:56:43 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:56:45 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 18:56:45 - INFO - /api/car | GET | {} | {}
+20.2.2025, 18:56:45 - INFO - New connected socket [id: gVZjxoU__B_Itnj_AAAF]
+20.2.2025, 18:56:45 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:04:52 - INFO - Server is running on port: 3030
+20.2.2025, 19:04:54 - INFO - New connected socket [id: llxMjoHyQN3gQRdxAAAB]
+20.2.2025, 19:04:54 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:04:54 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:05:46 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:05:46 - INFO - New connected socket [id: q89hEXqXK3Dtj7UWAAAD]
+20.2.2025, 19:05:46 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:05:46 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:06:04 - INFO - user-watch from socket [id: q89hEXqXK3Dtj7UWAAAD], on user 65199f7f72b0cbdda7d78775
+20.2.2025, 19:06:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:06:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:06:07 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:06:07 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:06:07 - INFO - New connected socket [id: ndArtxcQTrbUibSYAAAF]
+20.2.2025, 19:06:07 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:06:07 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:06:08 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:06:08 - INFO - New connected socket [id: HesWRkv7AQmNeOPXAAAH]
+20.2.2025, 19:06:08 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:10:18 - INFO - Server is running on port: 3030
+20.2.2025, 19:10:21 - INFO - New connected socket [id: W2WFYYOGgk5A620uAAAB]
+20.2.2025, 19:10:21 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:10:21 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:10:26 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:10:26 - INFO - New connected socket [id: LwLAzOUfykpVnTQJAAAD]
+20.2.2025, 19:10:26 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:10:26 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:10:31 - DEBUG - auth.service - login with username: popo
+20.2.2025, 19:10:31 - INFO - User login:  | {"_id":"6519a0797f5222e124576a39","username":"popo","fullname":"Popo McPopo","imgUrl":null,"score":200}
+20.2.2025, 19:10:31 - INFO - Setting socket.userId = 6519a0797f5222e124576a39 for socket [id: LwLAzOUfykpVnTQJAAAD]
+20.2.2025, 19:10:32 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:10:32 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:10:39 - INFO - Removing socket.userId for socket [id: LwLAzOUfykpVnTQJAAAD]
+20.2.2025, 19:10:43 - DEBUG - auth.service - login with username: stu
+20.2.2025, 19:10:43 - INFO - User login:  | {"_id":"6693ed0cc0ce129e1ce34766","username":"stu","fullname":"Stav Yaar Bar","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1720970505/myvjigxs2bxhsktyfquk.jpg","isAdmin":true,"score":150}
+20.2.2025, 19:10:43 - INFO - Setting socket.userId = 6693ed0cc0ce129e1ce34766 for socket [id: LwLAzOUfykpVnTQJAAAD]
+20.2.2025, 19:10:45 - INFO - Removing socket.userId for socket [id: LwLAzOUfykpVnTQJAAAD]
+20.2.2025, 19:10:47 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:10:47 - INFO - New connected socket [id: BdiynLsoCh3MXvLoAAAF]
+20.2.2025, 19:10:53 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:10:53 - INFO - New connected socket [id: nexTMWYP1FJdyTMOAAAH]
+20.2.2025, 19:10:54 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:10:54 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:12:24 - INFO - Server is running on port: 3030
+20.2.2025, 19:12:25 - INFO - New connected socket [id: 3Z8WP7XlT0pVw2sXAAAB]
+20.2.2025, 19:12:31 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:12:31 - INFO - New connected socket [id: ZhMPSLLbREyPIATsAAAD]
+20.2.2025, 19:12:31 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:12:31 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:12:47 - DEBUG - auth.service - login with username: popo
+20.2.2025, 19:12:47 - INFO - User login:  | {"_id":"6519a0797f5222e124576a39","username":"popo","fullname":"Popo McPopo","imgUrl":null,"score":200}
+20.2.2025, 19:12:47 - INFO - Setting socket.userId = 6519a0797f5222e124576a39 for socket [id: ZhMPSLLbREyPIATsAAAD]
+20.2.2025, 19:12:50 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:12:50 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:12:56 - INFO - /api/car | GET | {} | {"id":"6693ff4630dbc137e8102ce9"} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:00 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:00 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:01 - INFO - user-watch from socket [id: ZhMPSLLbREyPIATsAAAD], on user 6729e1ff03b7986b3584156f
+20.2.2025, 19:13:10 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:10 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:12 - INFO - user-watch from socket [id: ZhMPSLLbREyPIATsAAAD], on user 6519a0797f5222e124576a39
+20.2.2025, 19:13:20 - INFO - /api/review | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:36 - INFO - /api/review | POST | {"txt":"Hey Lala","aboutUserId":"6729e1ff03b7986b3584156f"} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:36 - INFO - Broadcasting event: review-added | 6519a0797f5222e124576a39
+20.2.2025, 19:13:36 - INFO - Broadcast to all excluding user: 6519a0797f5222e124576a39 | 6519a0797f5222e124576a39
+20.2.2025, 19:13:36 - INFO - No active socket for user: 6729e1ff03b7986b3584156f | 6519a0797f5222e124576a39
+20.2.2025, 19:13:37 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:13:38 - INFO - /api/review | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:38 - INFO - New connected socket [id: WSMqtTb3N6rRVrNRAAAF]
+20.2.2025, 19:13:38 - INFO - Setting socket.userId = 6519a0797f5222e124576a39 for socket [id: WSMqtTb3N6rRVrNRAAAF]
+20.2.2025, 19:13:52 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:52 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:13:59 - INFO - /api/car | POST | {"vendor":null,"price":4420,"speed":215,"msgs":[]} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:14:02 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:14:02 - INFO - New connected socket [id: 65kOQTQ30lxAsSzKAAAH]
+20.2.2025, 19:14:02 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:14:02 - INFO - /api/car | GET | {} | {} | 6519a0797f5222e124576a39
+20.2.2025, 19:14:02 - INFO - Setting socket.userId = 6519a0797f5222e124576a39 for socket [id: 65kOQTQ30lxAsSzKAAAH]
+20.2.2025, 19:14:07 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:14:07 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:14:07 - INFO - New connected socket [id: hED79XeCmiHkGV3SAAAJ]
+20.2.2025, 19:14:07 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:14:08 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:14:08 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:14:08 - INFO - New connected socket [id: xEZ6N0_GohnoDuTbAAAL]
+20.2.2025, 19:14:08 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:14:14 - DEBUG - auth.service - login with username: stu
+20.2.2025, 19:14:14 - INFO - User login:  | {"_id":"6693ed0cc0ce129e1ce34766","username":"stu","fullname":"Stav Yaar Bar","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1720970505/myvjigxs2bxhsktyfquk.jpg","isAdmin":true,"score":150}
+20.2.2025, 19:14:14 - INFO - Setting socket.userId = 6693ed0cc0ce129e1ce34766 for socket [id: xEZ6N0_GohnoDuTbAAAL]
+20.2.2025, 19:14:16 - INFO - /api/car | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 19:14:16 - INFO - /api/car | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 19:15:09 - INFO - /api/review | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 19:15:50 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:15:50 - INFO - New connected socket [id: JOHwdo4K_SIuUObWAAAN]
+20.2.2025, 19:15:50 - INFO - /api/review | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 19:15:50 - INFO - Setting socket.userId = 6693ed0cc0ce129e1ce34766 for socket [id: JOHwdo4K_SIuUObWAAAN]
+20.2.2025, 19:17:57 - INFO - Server is running on port: 3030
+20.2.2025, 19:17:59 - INFO - New connected socket [id: v3zWQWJnUUjgZIozAAAB]
+20.2.2025, 19:19:10 - INFO - Server is running on port: 3030
+20.2.2025, 19:19:12 - INFO - New connected socket [id: k-chU4zY4p2rE5IsAAAB]
+20.2.2025, 19:19:17 - INFO - Server is running on port: 3030
+20.2.2025, 19:19:19 - INFO - New connected socket [id: nmFMiZOX_OIzs3O7AAAB]
+20.2.2025, 19:19:51 - INFO - Server is running on port: 3030
+20.2.2025, 19:19:52 - INFO - New connected socket [id: eielRllGkJdvcy7ZAAAB]
+20.2.2025, 19:21:30 - INFO - Server is running on port: 3030
+20.2.2025, 19:21:32 - INFO - New connected socket [id: e3CPmZVJ8tZ-A9kmAAAB]
+20.2.2025, 19:22:49 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:22:50 - INFO - New connected socket [id: 0Qjjjl06Z_CQBbkEAAAD]
+20.2.2025, 19:22:50 - INFO - /api/review | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 19:22:50 - INFO - Setting socket.userId = 6693ed0cc0ce129e1ce34766 for socket [id: 0Qjjjl06Z_CQBbkEAAAD]
+20.2.2025, 19:29:50 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:29:50 - INFO - New connected socket [id: KqcqZkB3CuFadBFFAAAF]
+20.2.2025, 19:29:50 - INFO - Setting socket.userId = 6693ed0cc0ce129e1ce34766 for socket [id: KqcqZkB3CuFadBFFAAAF]
+20.2.2025, 19:29:50 - INFO - /api/review | GET | {} | {} | 6693ed0cc0ce129e1ce34766
+20.2.2025, 19:31:03 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:31:13 - INFO - New connected socket [id: BIvcwaSBM5zUsZJ7AAAH]
+20.2.2025, 19:31:15 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:31:15 - INFO - New connected socket [id: syxab7t9ApyjW2ePAAAJ]
+20.2.2025, 19:31:39 - INFO - Setting socket.userId = [object Object] for socket [id: syxab7t9ApyjW2ePAAAJ]
+20.2.2025, 19:31:47 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:31:47 - INFO - New connected socket [id: jWLeRpVTps78Nq18AAAL]
+20.2.2025, 19:31:47 - INFO - Setting socket.userId = Pk0Ww for socket [id: jWLeRpVTps78Nq18AAAL]
+20.2.2025, 19:32:03 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:32:03 - INFO - New connected socket [id: OlcyrAvNXljej1P8AAAN]
+20.2.2025, 19:32:03 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:32:03 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:32:03 - INFO - Setting socket.userId = Pk0Ww for socket [id: OlcyrAvNXljej1P8AAAN]
+20.2.2025, 19:32:07 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:32:07 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:32:07 - INFO - New connected socket [id: 5lcBXA4SPgRELKLcAAAP]
+20.2.2025, 19:32:07 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:32:28 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:33:12 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:34:03 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:34:04 - INFO - New connected socket [id: M5pL8fYl0fqUzLBXAAAR]
+20.2.2025, 19:34:04 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:34:04 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:34:26 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:34:26 - INFO - New connected socket [id: Gt_B7aEo6liNVDUmAAAT]
+20.2.2025, 19:34:26 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:34:26 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:35:50 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:35:50 - INFO - New connected socket [id: tbFVVZUEjCdRBrYVAAAV]
+20.2.2025, 19:35:50 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:35:50 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:36:58 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:36:58 - INFO - New connected socket [id: nhm9v9reNvnRhBfpAAAX]
+20.2.2025, 19:36:58 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:36:58 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:37:49 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:37:49 - INFO - New connected socket [id: gKeOWvHWrTG68TtJAAAZ]
+20.2.2025, 19:37:49 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:37:49 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:38:11 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:48:21 - INFO - Server is running on port: 3030
+20.2.2025, 19:48:23 - INFO - New connected socket [id: BXXKV5bmbgIJODdpAAAB]
+20.2.2025, 19:48:30 - INFO - Server is running on port: 3030
+20.2.2025, 19:48:32 - INFO - New connected socket [id: c7tSuRJGzYPEoKAvAAAB]
+20.2.2025, 19:48:47 - INFO - New connected socket [id: gKC8OW9eMb2_JyP8AAAD]
+20.2.2025, 19:48:49 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:48:49 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:49:08 - INFO - Server is running on port: 3030
+20.2.2025, 19:49:09 - INFO - New connected socket [id: FVMQtXPxqzKAJRTTAAAB]
+20.2.2025, 19:49:10 - INFO - New connected socket [id: aXa-i5rFKJtoXQYTAAAD]
+20.2.2025, 19:49:15 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:49:15 - INFO - New connected socket [id: XcnQ2W1rEEwu1FP0AAAF]
+20.2.2025, 19:49:15 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:49:16 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:51:18 - INFO - Server is running on port: 3030
+20.2.2025, 19:51:19 - INFO - New connected socket [id: 4Mf1aBUg7_u1D1_DAAAB]
+20.2.2025, 19:51:20 - INFO - New connected socket [id: ODFYu3ttWBR53TdqAAAD]
+20.2.2025, 19:55:05 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:55:05 - INFO - New connected socket [id: bfmJxw3fkNs9m2auAAAF]
+20.2.2025, 19:55:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:55:06 - INFO - /api/car | GET | {} | {}
+20.2.2025, 19:55:09 - INFO - user-watch from socket [id: bfmJxw3fkNs9m2auAAAF], on user 6693ed0cc0ce129e1ce34766
+20.2.2025, 19:55:46 - INFO - /api/review | GET | {} | {}
+20.2.2025, 19:56:54 - INFO - user-watch from socket [id: bfmJxw3fkNs9m2auAAAF], on user 6519a0797f5222e124576a39
+20.2.2025, 19:57:47 - INFO - Server is running on port: 3030
+20.2.2025, 19:57:49 - INFO - New connected socket [id: trbI6KJ-ic4CYiKKAAAC]
+20.2.2025, 19:57:49 - INFO - New connected socket [id: gixFOcoEzbnPLRWgAAAD]
+20.2.2025, 19:57:52 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 19:57:52 - INFO - New connected socket [id: smmvI4a5RAh_90rZAAAF]
+20.2.2025, 19:57:52 - INFO - user-watch from socket [id: smmvI4a5RAh_90rZAAAF], on user 6519a0797f5222e124576a39
+20.2.2025, 19:57:58 - INFO - /api/review | GET | {} | {}
+20.2.2025, 19:58:56 - INFO - Server is running on port: 3030
+20.2.2025, 19:58:57 - INFO - New connected socket [id: 9ugtHAM4-GhJ6qdMAAAB]
+20.2.2025, 19:58:58 - INFO - New connected socket [id: RRaBVVvDvan-8BzcAAAD]
+20.2.2025, 20:03:47 - INFO - Server is running on port: 3030
+20.2.2025, 20:03:48 - INFO - New connected socket [id: hRRXjAeTlewdo_q-AAAC]
+20.2.2025, 20:03:48 - INFO - New connected socket [id: 3rJj1DJuhw7JvrP1AAAD]
+20.2.2025, 20:04:21 - INFO - Server is running on port: 3030
+20.2.2025, 20:04:22 - INFO - New connected socket [id: VEMu0BN8D8FrcTndAAAC]
+20.2.2025, 20:04:22 - INFO - New connected socket [id: McH0GswDmAaV9XtaAAAD]
+20.2.2025, 20:04:55 - INFO - Server is running on port: 3030
+20.2.2025, 20:04:56 - INFO - New connected socket [id: QBzKSV01AnoAtbMEAAAC]
+20.2.2025, 20:04:56 - INFO - New connected socket [id: tvO0cxpSkPZaMvZCAAAD]
+20.2.2025, 20:05:00 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 20:05:00 - INFO - New connected socket [id: _Wuwvc6XizCjbm54AAAF]
+20.2.2025, 20:05:00 - INFO - /api/review | GET | {} | {}
+20.2.2025, 20:05:01 - ERROR - cannot get reviews | MongoServerError: expected either a string or an object as specification for $unwind stage, got array
+20.2.2025, 20:05:01 - ERROR - Cannot get reviews | MongoServerError: expected either a string or an object as specification for $unwind stage, got array
+20.2.2025, 20:05:11 - INFO - Server is running on port: 3030
+20.2.2025, 20:05:12 - INFO - New connected socket [id: qOjEMRBzTgFHCGO_AAAB]
+20.2.2025, 20:05:13 - INFO - New connected socket [id: q-TAAG1OOfXK7M3KAAAD]
+20.2.2025, 20:05:13 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 20:05:13 - INFO - New connected socket [id: _b9Fk3CfZL9wpuRLAAAF]
+20.2.2025, 20:05:13 - INFO - /api/review | GET | {} | {}
+20.2.2025, 20:05:37 - INFO - Server is running on port: 3030
+20.2.2025, 20:05:38 - INFO - New connected socket [id: OiRUk8ViNXfEzagbAAAB]
+20.2.2025, 20:05:38 - INFO - New connected socket [id: m2i-QTAULUiCLTy3AAAD]
+20.2.2025, 20:05:38 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 20:05:39 - INFO - New connected socket [id: JsNswO_zUeOagQXCAAAF]
+20.2.2025, 20:05:39 - INFO - /api/review | GET | {} | {}
+20.2.2025, 20:06:13 - INFO - Server is running on port: 3030
+20.2.2025, 20:06:15 - INFO - New connected socket [id: AjSr6rzfG4VPR8B1AAAC]
+20.2.2025, 20:06:15 - INFO - New connected socket [id: b8pgaMpGn9KOhVY8AAAD]
+20.2.2025, 20:07:59 - INFO - Server is running on port: 3030
+20.2.2025, 20:08:00 - INFO - New connected socket [id: 16oFdNG4qXh3ZB4HAAAB]
+20.2.2025, 20:08:01 - INFO - New connected socket [id: q4rKT2jYzsewdquNAAAD]
+20.2.2025, 20:09:08 - INFO - Server is running on port: 3030
+20.2.2025, 20:09:10 - INFO - New connected socket [id: SG-ThO4PGE2hUj_BAAAC]
+20.2.2025, 20:09:10 - INFO - New connected socket [id: RieRCZC_nEWTsEILAAAD]
+20.2.2025, 20:09:15 - INFO - Server is running on port: 3030
+20.2.2025, 20:09:16 - INFO - New connected socket [id: kJfC7zw5IoPfzlnxAAAB]
+20.2.2025, 20:09:17 - INFO - New connected socket [id: RBA6sG09bj0N04LKAAAD]
+20.2.2025, 20:09:41 - INFO - Server is running on port: 3030
+20.2.2025, 20:09:42 - INFO - New connected socket [id: xbuS5_KzvXp1zW-SAAAB]
+20.2.2025, 20:09:43 - INFO - New connected socket [id: 9zV9AhkV3woYhoJWAAAD]
+20.2.2025, 20:10:12 - INFO - Server is running on port: 3030
+20.2.2025, 20:10:13 - INFO - New connected socket [id: 31Wj1wwxOlh8rIyJAAAB]
+20.2.2025, 20:10:14 - INFO - New connected socket [id: 7by0x148aDjDIB1eAAAD]
+20.2.2025, 20:11:04 - INFO - Server is running on port: 3030
+20.2.2025, 20:11:06 - INFO - New connected socket [id: 4vCmu3Y8MZvtillvAAAC]
+20.2.2025, 20:11:06 - INFO - New connected socket [id: TIONYURcaeoyxwpNAAAD]
+20.2.2025, 20:11:11 - INFO - Server is running on port: 3030
+20.2.2025, 20:11:12 - INFO - New connected socket [id: 6x_11YaoxMTloz1wAAAB]
+20.2.2025, 20:11:13 - INFO - New connected socket [id: 08cMVzftHzK6S0dRAAAD]
+20.2.2025, 20:11:49 - INFO - Server is running on port: 3030
+20.2.2025, 20:11:50 - INFO - New connected socket [id: hrp7PzM0QAZYPPHSAAAC]
+20.2.2025, 20:11:50 - INFO - New connected socket [id: z3ovnT2coMPnSLKVAAAD]
+20.2.2025, 20:13:05 - INFO - Server is running on port: 3030
+20.2.2025, 20:13:06 - INFO - New connected socket [id: wIW5zr-QGBaAE70OAAAB]
+20.2.2025, 20:13:07 - INFO - New connected socket [id: DEfRT_fS9OLUPaydAAAD]
+20.2.2025, 20:15:43 - INFO - Server is running on port: 3030
+20.2.2025, 20:15:45 - INFO - New connected socket [id: sjidYc2qFsCQCavfAAAC]
+20.2.2025, 20:15:45 - INFO - New connected socket [id: nUPySZVjd6gzS5mfAAAD]
+20.2.2025, 20:15:55 - INFO - Server is running on port: 3030
+20.2.2025, 20:15:56 - INFO - New connected socket [id: OElZtYPPavFb6W4rAAAB]
+20.2.2025, 20:15:57 - INFO - New connected socket [id: ryywA_ZXfmwGhd5nAAAD]
+20.2.2025, 20:18:12 - INFO - Server is running on port: 3030
+20.2.2025, 20:18:13 - INFO - New connected socket [id: Txrn4F0vOzidDJy6AAAB]
+20.2.2025, 20:18:14 - INFO - New connected socket [id: I0qwwdslTKiS_POaAAAD]
+20.2.2025, 20:19:10 - INFO - Server is running on port: 3030
+20.2.2025, 20:19:11 - INFO - New connected socket [id: Ka_9AXtgKNVVt9YAAAAB]
+20.2.2025, 20:19:12 - INFO - New connected socket [id: pG4NPA6hxYLWDo8aAAAD]
+20.2.2025, 20:19:25 - INFO - Server is running on port: 3030
+20.2.2025, 20:19:26 - INFO - New connected socket [id: ky-v8-SDSyzLfXylAAAC]
+20.2.2025, 20:19:26 - INFO - New connected socket [id: 0BnvlJvSi5eVc9zKAAAD]
+20.2.2025, 20:20:58 - INFO - Server is running on port: 3030
+20.2.2025, 20:20:59 - INFO - New connected socket [id: lXTBjSd_0DgB_L7EAAAB]
+20.2.2025, 20:21:00 - INFO - New connected socket [id: fWf5XdboEnh0tP1jAAAD]
+20.2.2025, 20:22:38 - INFO - Server is running on port: 3030
+20.2.2025, 20:22:39 - INFO - New connected socket [id: 1WCYUtSCnlU9N0C7AAAB]
+20.2.2025, 20:22:39 - INFO - New connected socket [id: zXZSdJZMqnFD0lF3AAAD]
+20.2.2025, 20:23:03 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 20:23:05 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 20:23:50 - INFO - Server is running on port: 3030
+20.2.2025, 20:26:50 - INFO - Server is running on port: 3030
+20.2.2025, 20:27:09 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:28:06 - INFO - Server is running on port: 3030
+20.2.2025, 20:28:37 - INFO - Server is running on port: 3030
+20.2.2025, 20:28:42 - INFO - New connected socket [id: fTmJrYP8jgcsbyJLAAAB]
+20.2.2025, 20:29:04 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:05 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:18 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:18 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:19 - INFO - /api/review | GET | {} | {}
+20.2.2025, 20:29:22 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:22 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:37 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:37 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 20:29:40 - INFO - New connected socket [id: czCKnrv9mOC9xEaNAAAD]
+20.2.2025, 20:29:43 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:43 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:43 - INFO - Socket disconnected [id: undefined]
+20.2.2025, 20:29:43 - INFO - /api/car | GET | {} | {}
+20.2.2025, 20:29:43 - INFO - New connected socket [id: OI2wr6HKO7bdm0x2AAAF]
+20.2.2025, 20:29:43 - INFO - /api/car | GET | {} | {}

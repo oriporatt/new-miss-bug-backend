@@ -1037,3 +1037,13 @@
 23.2.2025, 20:21:30 - INFO - /api/car | GET | {} | {}
 23.2.2025, 20:21:56 - INFO - Server is running on port: 3030
 23.2.2025, 20:21:59 - INFO - /api/car | GET | {} | {}
+23.2.2025, 21:05:30 - INFO - Server is running on port: 3030
+23.2.2025, 21:05:39 - INFO - /api/car | GET | {} | {}
+23.2.2025, 21:06:42 - INFO - /api/car | GET | {} | {}
+23.2.2025, 21:07:54 - INFO - Server is running on port: 3030
+23.2.2025, 21:11:11 - INFO - /api/car | GET | {} | {}
+23.2.2025, 21:12:04 - ERROR - while finding user by id: 664f8261e6205c622dbc14e2 | TypeError: Cannot convert undefined or null to object
+23.2.2025, 21:12:04 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object
+23.2.2025, 21:13:11 - INFO - Server is running on port: 3030
+23.2.2025, 21:13:36 - ERROR - while finding user by id: 664f8261e6205c622dbc14e2 | TypeError: Cannot convert undefined or null to object
+23.2.2025, 21:13:36 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object

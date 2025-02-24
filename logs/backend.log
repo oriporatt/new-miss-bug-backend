@@ -1239,3 +1239,10 @@
 24.2.2025, 13:56:37 - INFO - User login:  | {"_id":"65199f6b72b0cbdda7d78774","username":"nina","fullname":"Nina Simantov","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1730721847/lfoue5mbwl8tzvukaolf.webp","score":110}
 24.2.2025, 13:56:51 - INFO - /api/msg | POST | {"txt":"nina msg 1","aboutBugId":"67bb695780d899912b519848"} | {} | 65199f6b72b0cbdda7d78774
 24.2.2025, 15:22:16 - INFO - Server is running on port: 3030
+24.2.2025, 15:35:17 - INFO - Server is running on port: 3030
+24.2.2025, 15:35:51 - DEBUG - auth.service - signup with username: kiki, fullname: kiki | 65199f6b72b0cbdda7d78774
+24.2.2025, 15:35:52 - ERROR - Failed to signup Username already taken | 65199f6b72b0cbdda7d78774
+24.2.2025, 15:36:04 - DEBUG - auth.service - signup with username: ori, fullname: ori | 65199f6b72b0cbdda7d78774
+24.2.2025, 15:36:04 - DEBUG - auth.route - new account created: {"username":"ori","password":"$2b$10$Oy9MnMZszdLCR3zNOfm7yOuMyQ1sPb6U08BYvEHCx7fj4X8Uo/iQi","fullname":"ori","score":100,"_id":"67bc75c4e1275b639cf38a80"} | 65199f6b72b0cbdda7d78774
+24.2.2025, 15:36:04 - DEBUG - auth.service - login with username: ori | 65199f6b72b0cbdda7d78774
+24.2.2025, 15:36:04 - INFO - User signup: | {"_id":"67bc75c4e1275b639cf38a80","username":"ori","fullname":"ori","imgUrl":null,"isAdmin":null,"score":100} | 65199f6b72b0cbdda7d78774

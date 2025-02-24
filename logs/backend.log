@@ -1238,3 +1238,4 @@
 24.2.2025, 13:56:37 - DEBUG - auth.service - login with username: nina
 24.2.2025, 13:56:37 - INFO - User login:  | {"_id":"65199f6b72b0cbdda7d78774","username":"nina","fullname":"Nina Simantov","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1730721847/lfoue5mbwl8tzvukaolf.webp","score":110}
 24.2.2025, 13:56:51 - INFO - /api/msg | POST | {"txt":"nina msg 1","aboutBugId":"67bb695780d899912b519848"} | {} | 65199f6b72b0cbdda7d78774
+24.2.2025, 15:22:16 - INFO - Server is running on port: 3030

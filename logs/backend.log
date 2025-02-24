@@ -1047,3 +1047,64 @@
 23.2.2025, 21:13:11 - INFO - Server is running on port: 3030
 23.2.2025, 21:13:36 - ERROR - while finding user by id: 664f8261e6205c622dbc14e2 | TypeError: Cannot convert undefined or null to object
 23.2.2025, 21:13:36 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object
+24.2.2025, 9:48:36 - INFO - Server is running on port: 3030
+24.2.2025, 9:49:15 - INFO - Server is running on port: 3030
+24.2.2025, 9:49:32 - INFO - Server is running on port: 3030
+24.2.2025, 9:50:16 - INFO - Server is running on port: 3030
+24.2.2025, 9:50:29 - INFO - Server is running on port: 3030
+24.2.2025, 9:50:36 - INFO - Server is running on port: 3030
+24.2.2025, 9:54:30 - INFO - Server is running on port: 3030
+24.2.2025, 10:10:35 - INFO - Server is running on port: 3030
+24.2.2025, 10:11:58 - INFO - Server is running on port: 3030
+24.2.2025, 10:12:31 - INFO - Server is running on port: 3030
+24.2.2025, 10:12:45 - INFO - Server is running on port: 3030
+24.2.2025, 10:16:33 - INFO - Server is running on port: 3030
+24.2.2025, 10:18:49 - INFO - Server is running on port: 3030
+24.2.2025, 10:19:01 - INFO - Server is running on port: 3030
+24.2.2025, 10:19:42 - INFO - Server is running on port: 3030
+24.2.2025, 10:21:05 - INFO - Server is running on port: 3030
+24.2.2025, 10:22:42 - INFO - Server is running on port: 3030
+24.2.2025, 10:23:41 - INFO - /api/bug | GET | {} | {}
+24.2.2025, 10:24:08 - INFO - Server is running on port: 3030
+24.2.2025, 10:24:10 - INFO - /api/bug | GET | {} | {}
+24.2.2025, 10:24:38 - INFO - /api/bug | GET | {} | {"id":"67bb695780d899912b519845"}
+24.2.2025, 10:26:21 - DEBUG - auth.service - login with username: nina
+24.2.2025, 10:26:21 - INFO - User login:  | {"_id":"65199f6b72b0cbdda7d78774","username":"nina","fullname":"Nina Simantov","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1730721847/lfoue5mbwl8tzvukaolf.webp","score":110}
+24.2.2025, 10:26:40 - INFO - /api/bug | GET | {} | {"id":"67bb695780d899912b519845"} | 65199f6b72b0cbdda7d78774
+24.2.2025, 10:26:56 - ERROR - cannot remove bug 67bb695780d899912b519845 | Not your bug | 65199f6b72b0cbdda7d78774
+24.2.2025, 10:26:56 - ERROR - Failed to remove bug | Not your bug | 65199f6b72b0cbdda7d78774
+24.2.2025, 10:27:39 - DEBUG - auth.service - login with username: bob
+24.2.2025, 10:27:40 - INFO - User login:  | {"_id":"65199f7f72b0cbdda7d78775","username":"bob","fullname":"Bobby Bob","imgUrl":null,"score":107}
+24.2.2025, 10:27:49 - ERROR - cannot remove bug 67bb695780d899912b519845 | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:27:49 - ERROR - Failed to remove bug | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:29:08 - WARN - Bobby Bobattempted to perform admin action | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:30:51 - DEBUG - auth.service - login with username: bob | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:30:52 - INFO - User login:  | {"_id":"65199f7f72b0cbdda7d78775","username":"bob","fullname":"Bobby Bob","imgUrl":null,"score":107} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:32:17 - ERROR - cannot remove bug 67bb695780d899912b519845 | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:32:17 - ERROR - Failed to remove bug | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:34:02 - INFO - Server is running on port: 3030
+24.2.2025, 10:34:07 - INFO - logged in user check | {"_id":"65199f7f72b0cbdda7d78775","fullname":"Bobby Bob","score":107} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:34:11 - ERROR - cannot remove bug 67bb695780d899912b519845 | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:34:11 - ERROR - Failed to remove bug | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:35:35 - INFO - Server is running on port: 3030
+24.2.2025, 10:35:43 - INFO - logged in user check | 65199f7f72b0cbdda7d78775 | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:35:44 - ERROR - Failed to remove bug | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:35:44 - ERROR - cannot remove bug 67bb695780d899912b519845 | Not your bug | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:37:39 - INFO - Server is running on port: 3030
+24.2.2025, 10:40:49 - INFO - /api/bug | POST | {"title":"Test 1039","description":"24/02 Blabla bla","severity":9,"labels":["critical","need-CR","dev-branch"]} | {} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:42:50 - INFO - Server is running on port: 3030
+24.2.2025, 10:43:11 - INFO - Server is running on port: 3030
+24.2.2025, 10:43:30 - INFO - /api/bug | POST | {"title":"Test 1043","description":"24/02 Blabla bla","severity":9,"labels":["critical","need-CR","dev-branch"]} | {} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:45:26 - INFO - Server is running on port: 3030
+24.2.2025, 10:45:35 - INFO - Server is running on port: 3030
+24.2.2025, 10:45:45 - INFO - /api/bug | POST | {"title":"Test 1043","description":"24/02 Blabla bla","severity":9,"labels":["critical","need-CR","dev-branch"]} | {} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:47:58 - INFO - Server is running on port: 3030
+24.2.2025, 10:49:37 - DEBUG - auth.service - login with username: bob
+24.2.2025, 10:49:41 - INFO - User login:  | {"_id":"65199f7f72b0cbdda7d78775","username":"bob","fullname":"Bobby Bob","imgUrl":null,"score":107}
+24.2.2025, 10:49:50 - INFO - /api/bug | POST | {"title":"Test 1049","description":"24/02 Blabla bla","severity":9,"labels":["critical","need-CR","dev-branch"]} | {} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:50:01 - INFO - /api/bug | GET | {} | {} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:52:20 - INFO - Server is running on port: 3030
+24.2.2025, 10:53:47 - INFO - Server is running on port: 3030
+24.2.2025, 10:53:50 - DEBUG - auth.service - login with username: bob | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:53:53 - INFO - User login:  | {"_id":"65199f7f72b0cbdda7d78775","username":"bob","fullname":"Bobby Bob","imgUrl":null,"score":107} | 65199f7f72b0cbdda7d78775
+24.2.2025, 10:56:00 - INFO - Server is running on port: 3030

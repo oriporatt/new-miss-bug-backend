@@ -8,7 +8,9 @@
         "start": "node server.js",
         "server:dev": "nodemon server.js",
         "server:prod": "set NODE_ENV=production&node server.js",
-        "server:prod:mac": "export NODE_ENV=production && node server.js"
+        "server:prod:mac": "export NODE_ENV=production && node server.js",
+        "postinstall": "npm rebuild bcrypt --build-from-source"
+
     },
     "author": "Me",
     "license": "ISC",

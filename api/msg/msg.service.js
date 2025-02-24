@@ -65,13 +65,28 @@ async function remove(msgId) {
 async function add(msg) {
 	try {
 		const collection = await dbService.getCollection('msg')
+		if (msg.aboutBugId && typeof msg.aboutBugId === 'string') {
+			msg.aboutBugId = ObjectId.createFromHexString(msg.aboutBugId);
+		}
 		await collection.insertOne(msg)
-
 		
-		var msg = await collection.aggregate([
-			// {
-			// 	$match: criteria,
-			// },
+		const criteria = { _id: msg._id }
+
+		var outMsg = await collection.aggregate([
+			{
+				$match: criteria,
+			},
+			{
+				$lookup: {
+					localField: 'aboutBugId',
+					from: 'bug',
+					foreignField: '_id',
+					as: 'aboutBug',
+				},
+			},
+			{
+				$unwind: '$aboutBug',
+			},
 			{
 				$lookup: {
 					localField: 'byUserId',
@@ -84,27 +99,15 @@ async function add(msg) {
 				$unwind: '$byUser',
 			},
 			{
-				$lookup: {
-					localField: 'aboutUserId',
-					from: 'user',
-					foreignField: '_id',
-					as: 'aboutUser',
-				},
-			},
-			{
-				$unwind: '$aboutUser',
-			},
-			{
 				$project: {
 					'txt': true,
-					'byUser._id': true, 'byUser.fullname': true,
-					'aboutUser._id': true, 'aboutUser.fullname': true,
+					'aboutBug._id': true, 'aboutBug.title':true, 'aboutBug.severity':true,
+					'byUser._id': true, 'byUser.fullname':true
 				}
 			}
 		]).toArray()
 
-
-		return msg
+		return outMsg[0]||null
 	} catch (err) {
 		logger.error('cannot insert msg', err)
 		throw err

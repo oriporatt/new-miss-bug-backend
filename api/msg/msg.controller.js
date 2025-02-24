@@ -1,5 +1,6 @@
 import { logger } from '../../services/logger.service.js'
 import { msgService } from './msg.service.js'
+import { ObjectId } from 'mongodb'
 
 export async function getMsgs(req, res) {
 	try {
@@ -29,7 +30,11 @@ export async function addMsg(req, res) {
 	const { loggedinUser, body: msg } = req
 
 	try {
-		msg.byUserId = loggedinUser._id
+		msg.byUserId = loggedinUser._id 
+		//store it as a object
+		if (msg.byUserId && typeof msg.byUserId === 'string') {
+			msg.byUserId = ObjectId.createFromHexString(msg.byUserId);
+		}
 		const addedMsg = await msgService.add(msg)
 		res.json(addedMsg)
 	} catch (err) {
